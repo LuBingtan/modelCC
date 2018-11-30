@@ -1,0 +1,7 @@
+*.dpp
+*.o
+
+*.log
+*.out
+
+*.pyc
